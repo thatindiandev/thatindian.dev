@@ -1,22 +1,30 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: That 'hello world' post
+date: "2020-08-15T10:10:10.284Z"
+description: "Foobar"
 ---
 
-This is my first post on my new fake blog! How exciting!
+How do we publish our own blog?
 
-I'm sure I'll write a lot more interesting things in the future.
+How will it be?
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+How will it feel like to get our own blog?
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+Have you ever thought about these things? I am sure, you must have. Owning a personal blog is a dream come to true for 
+every developer. After publishing their first ever 'Hello world' blog post on the web, you must see their 
+excitement, their achievement face, and those stars in that eyes 🤩, priceless! With just releasing one post out there, they must be
+thinking to publish more content, share posts, _make the world a better place_, and a Million more things must be 
+going on inside that poor mind.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+By this time you must be thinking, and whatever you are thinking is absolutely right.
+
+Yeah! yes, this is THAT post. Just started with lots of hope, excitement and zero idea of what to write next 😅
+
+Note: To the all the people with good hearts hoping to read my next post, and the person who is currently reading 
+[yes, you!] this post after it's been published long ago, if you don't find any other post in the list, 
+please consider this as first and last post that died with the monkey-minded developer, who
+tried, got high on coding and moved on to trying next npm package. [Did you see? what i did there with npm 😆]
+
+Until then, this is __Shajahan__ and welcome to my blog!
+ 
+

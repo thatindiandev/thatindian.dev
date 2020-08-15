@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `That Indian Dev Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Shajahan`,
+      summary: `who is a frontend developer, genius, playboy, philanthropist, and a person who doesn't even slightly feel ashamed, not even a bit, for self-praising him on his own blog. 
+      With that, he is planning to share his thoughts and stories on web app development. `,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Shajahan's tech blog on web development and frontend engineering.`,
+    siteUrl: `https://thatindian.dev/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `thatindiandev`,
     },
   },
   plugins: [
@@ -60,8 +61,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `That Indian Dev Blog`,
+        short_name: `ThatIndianDev`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
