@@ -3,8 +3,8 @@ module.exports = {
     title: `That Indian Dev Blog`,
     author: {
       name: `Shajahan`,
-      summary: `who is a frontend developer, genius, playboy, philanthropist, and a person who doesn't even slightly feel ashamed, not even a bit, for self-praising him on his own blog. 
-      With that, he is planning to share his thoughts and stories on web app development. `,
+      summary: `who is a frontend developer, genius, playboy, philanthropist, and a person who doesn't even slightly feel ashamed, not even a bit, for self-praising  by himself on his own blog. 
+      BTW, he is also planning to share his thoughts and stories on web app development. `,
     },
     description: `Shajahan's tech blog on web development and frontend engineering.`,
     siteUrl: `https://thatindian.dev/`,
